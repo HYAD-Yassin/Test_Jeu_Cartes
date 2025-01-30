@@ -10,7 +10,7 @@ Les classes principales du projet sont :
 - **Pli** : Représente un ensemble de cartes jouées lors d'un tour, avec une méthode pour déterminer le gagnant du pli.
 - **Game** : Gère le déroulement du jeu (classe principale), l'initialisation des joueurs, la distribution des cartes, la gestion des plis et la détermination du gagnant final.
 
-![Diagramme de classe](images/ClassD_page-0001.jpg)
+![Diagramme de classe](Images/ClassD_page-0001.jpg)
 
 ---
 
@@ -18,7 +18,7 @@ Les classes principales du projet sont :
 
 Cette section affiche les cartes de manière organisée, en respectant l'ordre des couleurs et des valeurs, facilitant ainsi la lecture et la compréhension du jeu.
 
-![Cartes triées](images/Capture.PNG)
+![Cartes triées](Images/Capture.PNG)
 
 ---
 
@@ -48,7 +48,7 @@ Le programme simule un jeu de cartes où les joueurs reçoivent des cartes, joue
 
 Le jeu peut prendre du temps à se compiler en raison du choix aléatoire des cartes par les joueurs ainsi que du mélange des cartes, ce qui entraîne des calculs supplémentaires lors de chaque distribution.
 
-![Jeu en cours](images/Game.PNG)
+![Jeu en cours](Images/Game.PNG)
 
 ---
 
