@@ -10,7 +10,7 @@ Les classes principales du projet sont :
 - **Pli** : Représente un ensemble de cartes jouées lors d'un tour, avec une méthode pour déterminer le gagnant du pli.
 - **Game** : Gère le déroulement du jeu (classe principale), l'initialisation des joueurs, la distribution des cartes, la gestion des plis et la détermination du gagnant final.
 
-![Diagramme de classe](images/class_diagram.png)
+![Diagramme de classe](images/ClassD_page-0001.jpg)
 
 ---
 
@@ -18,7 +18,7 @@ Les classes principales du projet sont :
 
 Cette section affiche les cartes de manière organisée, en respectant l'ordre des couleurs et des valeurs, facilitant ainsi la lecture et la compréhension du jeu.
 
-![Cartes triées](images/sorted_cards.png)
+![Cartes triées](images/Capture.PNG)
 
 ---
 
@@ -28,16 +28,12 @@ Cette section affiche les cartes distribuées à chaque joueur après le mélang
 
 ### Exemple 1
 
-![Exemple 1](images/example_1.png)
-
 **Main du Joueur 1** : 8 de Coeur, Reine de Pique, Reine de Trèfle, 10 de Coeur, 5 de Coeur, Valet de Carreau, 9 de Pique, Valet de Pique, Roi de Pique, Valet de Coeur, 8 de Trèfle, As de Trèfle, Roi de Trèfle.  
 **Main du Joueur 2** : 10 de Pique, 3 de Trèfle, Valet de Trèfle, 2 de Coeur, 7 de Coeur, 7 de Pique, Reine de Carreau, 9 de Trèfle, 3 de Coeur, 4 de Coeur, 6 de Coeur, 3 de Carreau, 6 de Trèfle.  
 **Main du Joueur 3** : 7 de Trèfle, 10 de Carreau, 8 de Pique, 7 de Carreau, 2 de Trèfle, 2 de Carreau, 4 de Trèfle, 8 de Carreau, 2 de Pique, Roi de Coeur, As de Carreau, Reine de Coeur, 4 de Pique.  
 **Main du Joueur 4** : 3 de Pique, 6 de Pique, 9 de Carreau, As de Coeur, 10 de Trèfle, As de Pique, 6 de Carreau, 9 de Coeur, 5 de Trèfle, 5 de Pique, 4 de Carreau, Roi de Carreau, 5 de Carreau.
 
 ### Exemple 2
-
-![Exemple 2](images/example_2.png)
 
 **Main du Joueur 1** : 5 de Pique, 8 de Pique, 7 de Coeur, 2 de Carreau, Valet de Coeur, 8 de Trèfle, 6 de Carreau, As de Coeur, 6 de Pique, Reine de Carreau, 4 de Pique, 10 de Trèfle, Reine de Coeur.  
 **Main du Joueur 2** : Roi de Pique, 4 de Trèfle, 8 de Carreau, 7 de Trèfle, 10 de Carreau, 2 de Pique, 3 de Coeur, 3 de Pique, 10 de Coeur, 2 de Coeur, As de Trèfle, 5 de Coeur, As de Carreau.  
@@ -52,7 +48,7 @@ Le programme simule un jeu de cartes où les joueurs reçoivent des cartes, joue
 
 Le jeu peut prendre du temps à se compiler en raison du choix aléatoire des cartes par les joueurs ainsi que du mélange des cartes, ce qui entraîne des calculs supplémentaires lors de chaque distribution.
 
-![Jeu en cours](images/game_play.png)
+![Jeu en cours](images/Game.PNG)
 
 ---
 
@@ -71,7 +67,7 @@ Le jeu peut prendre du temps à se compiler en raison du choix aléatoire des ca
 
 ## Auteurs
 
-Développé par **Yassin**.
+Développé par **Yassin HYAD**.
 
 ---
 
